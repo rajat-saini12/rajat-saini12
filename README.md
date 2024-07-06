@@ -1,4 +1,5 @@
 ## this is my first Git Repository 👋
+Author - Rajat
 
 <!--
 **rajat-saini12/rajat-saini12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
